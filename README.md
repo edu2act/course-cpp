@@ -10,12 +10,9 @@
 - [教学大纲](./materials/outline.pdf)
 - [进度计划](./materials/schedule.pdf)
 - [课程作业](./materials/task.md)
+- [备课记录](./preparelog)
 
 ## 课程内容
-
-<style type="text/css">
-table  {  width:100%;  }
-</style>
 
 | 章节 | 名称 | 内容 | 
 |:---:|:---|:---|
