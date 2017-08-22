@@ -10,6 +10,6 @@
 |课程作业|[<img src="../image/presentation.png" height="15" />](./task.md)||
 |课程幻灯片||[<img src="../image/download.png" height="15" />](./slides)|
 
-[test](./README.md#任务求10个数中最大值最小值)
+[test](./README.md/#任务求10个数中最大值最小值)
 
 
