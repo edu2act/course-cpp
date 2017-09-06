@@ -32,8 +32,6 @@
 | 第六章 | [运算符重载](./ch06-overload) | – 运算符重载简介及语法<br/>– 用成员函数重载运算符<br/>– 几种常用运算符的重载<br/>– 不同类型数据间的转换 | [<img src="./image/presentation.png" height="15" />查看](./ch06-overload/ch06-overload.pdf) <br/>[<img src="./image/download.png" height="15" />下载](./materials/slides/ch06-overload.pptx) |
 | 第七章（1） | [多态](./ch07-polymorphism) | – 多态的引述<br/>– 多态的核心虚函数<br/>– 隐藏、覆盖、重载 | [<img src="./image/presentation.png" height="15" />查看](./ch07-polymorphism/ch07-polymorphism-1.pdf) <br/>[<img src="./image/download.png" height="15" />下载](./materials/slides/ch07-polymorphism-1.pptx) |
 | 第七章（2） | [多态](./ch07-polymorphism) | – 多态的引述<br/>– 多态的核心虚函数<br/>– 隐藏、覆盖、重载 | [<img src="./image/presentation.png" height="15" />查看](./ch07-polymorphism/ch07-polymorphism-2.pdf) <br/>[<img src="./image/download.png" height="15" />下载](./materials/slides/ch07-polymorphism-2.pptx) |
-| 第八章 | 动态数组 | – 动态数组结构的定义<br/>– 动态数组的创建<br/>– 动态数组数据插入<br/>– 动态数组数据删除<br/>– 动态数组数据查找<br/>– 动态数组合并<br/>– 动态数组的销毁 | |
-| 第九章 | 链表 | – 链表结构的定义<br/>– 链表的创建<br/>– 链表数据插入<br/>– 链表数据删除<br/>– 链表数据查找<br/>– 链表合并<br/>-链表的销毁 | 
-| 第十章 | 二叉树 | – 二叉树结构的定义<br/>– 二叉树的创建<br/>– 二叉树的先序遍历<br/>– 二叉树的中序遍历<br/>– 二叉树的后序遍历<br/>- 二叉树的销毁 | |
+
 
 
